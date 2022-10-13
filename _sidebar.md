@@ -5,3 +5,6 @@
 * [MagicTP](/magictp)
 > [Getting Started](magictp.md?id=getting-started)
 > [Configuring](magictp.md?id=configuring)
+>> [Coordinates](magictp.md?id=coordinates)
+>> [World](magictp.md?id=world)
+>> [Safety](magictp.md?id=safety)
